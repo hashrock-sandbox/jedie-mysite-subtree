@@ -13,9 +13,7 @@ function hello(){
 }
 ```
 
-GFM風に、
-改行だけで
-複数行にする。
+Subtreeでgh-pagesにデプロイするテスト。
 
 # h1
 
